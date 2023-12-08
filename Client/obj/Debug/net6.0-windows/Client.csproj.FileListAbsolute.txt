@@ -18,3 +18,11 @@ C:\Users\ASUS\source\repos\Car-Command\Client\obj\Debug\net6.0-windows\refint\Cl
 C:\Users\ASUS\source\repos\Car-Command\Client\obj\Debug\net6.0-windows\Client.pdb
 C:\Users\ASUS\source\repos\Car-Command\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\Car-Command\Client\obj\Debug\net6.0-windows\ref\Client.dll
+C:\Users\ASUS\source\repos\Car-Command\Client\bin\Debug\net6.0-windows\Server.deps.json
+C:\Users\ASUS\source\repos\Car-Command\Client\bin\Debug\net6.0-windows\Server.runtimeconfig.json
+C:\Users\ASUS\source\repos\Car-Command\Client\bin\Debug\net6.0-windows\Server.exe
+C:\Users\ASUS\source\repos\Car-Command\Client\bin\Debug\net6.0-windows\Server.dll
+C:\Users\ASUS\source\repos\Car-Command\Client\bin\Debug\net6.0-windows\Server.pdb
+C:\Users\ASUS\source\repos\Car-Command\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Car-Command\Client\obj\Debug\net6.0-windows\Client.sourcelink.json
+C:\Users\ASUS\source\repos\Car-Command\Client\obj\Debug\net6.0-windows\Client.csproj.CopyComplete
